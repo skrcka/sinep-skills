@@ -1,0 +1,12 @@
+{
+  "name": "sinep-skills",
+  "owner": { "name": "sinep.dev" },
+  "metadata": { "description": "Agent skills from sinep.dev: architecture documentation and more." },
+  "plugins": [
+    {
+      "name": "sinep-skills",
+      "source": "./",
+      "description": "architecture-docs: document a project's architecture in docs/architecture (service links, layers, dependency tree, Mermaid). sinep-messaging: message people through the sinep.dev MCP in the user's own style."
+    }
+  ]
+}

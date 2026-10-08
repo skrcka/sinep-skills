@@ -1,0 +1,8 @@
+{
+  "name": "sinep-skills",
+  "version": "0.1.0",
+  "description": "Agent skills from sinep.dev: architecture documentation (docs/architecture: service links, layered dependency tree, Mermaid) and messaging people through the sinep.dev MCP.",
+  "author": { "name": "sinep.dev" },
+  "homepage": "https://github.com/skrcka/sinep-skills",
+  "license": "MIT"
+}
